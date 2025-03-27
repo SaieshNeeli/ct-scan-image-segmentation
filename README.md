@@ -1,1 +1,1 @@
-# ct-scan-image-segmentation-
+# ct-scan-image-segmentation
